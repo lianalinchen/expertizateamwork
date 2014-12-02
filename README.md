@@ -28,6 +28,7 @@ This really isn't any different from refactoring projects, which don't change fu
 We have also refactored the ReportsController, in that, we have removed it completely. This code was also not used, and was actually simply copied from ResponseController. The original purpose of the controller could not been determined, and it was removed to prevent further confusion regarding it.
 
 Expertiza
+** Use the file README Student Quiz Controller OSS.pdf  
 =========
 
 [![Build Status](https://travis-ci.org/expertiza/expertiza.png?branch=master)](https://travis-ci.org/expertiza/expertiza)
